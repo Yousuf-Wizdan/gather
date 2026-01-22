@@ -4,8 +4,7 @@
 
 ## About The Project
 
-**Live Demo:** [https://gather.notlocalhost.fun](https://gather.notlocalhost.fun) | **Repository:** [https://github.com/abdullah0408/gather](https://github.com/abdullah0408/gather)
-
+**Live Demo:** [https://gather.notlocalhost.fun](https://gather.notlocalhost.fun)
 Gather is a modern social media application designed for building communities and fostering connections. It provides a feature-rich platform where users can share posts, engage in real-time conversations, and follow topics and profiles that interest them. The project is built with a focus on performance, scalability, and a clean user experience.
 
 ![Project Logo](./public/logo.png)
